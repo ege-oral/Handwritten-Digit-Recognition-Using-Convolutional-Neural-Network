@@ -1,1 +1,1 @@
-# Handwritten-Digit-Recognition-Using-Machine-Learning
+# Handwritten-Digit-Recognition-Using-Convolutional-Neural-Network
