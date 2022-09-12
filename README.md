@@ -30,3 +30,10 @@ for handwritten digits.
 <br/><br/>
 ![image](https://user-images.githubusercontent.com/45359225/189693046-2f509c8c-6bb4-4437-b113-bbf1cac49702.png)
 
+
+## Result
+Here we can see that our CNN performs very well on all digits with few errors considering the size of the validation set (4 200 images).
+However, it seems that our CNN has some little troubles with the 4 digits, hey are misclassified as 9. Sometime it is very difficult to catch the difference
+between 4 and 9 when curves are smooth. For those six case, the model is not ridiculous. Some of these errors can also be made by humans, especially for one the 9 that is very close to a 4. The last 9 is also very misleading, it seems for me that is a 0. Overall we have achieved 99% accuracy with this cnn model. This result is very close to the results obtained from other studies.
+<br/><br/>
+![image](https://user-images.githubusercontent.com/45359225/189693499-02b70f7f-5eb7-4298-820f-fd4385d7aeea.png)
